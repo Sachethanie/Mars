@@ -1,5 +1,9 @@
 ﻿
 
+using ProjectMars.Helpers;
+using ProjectMars.Models;
+using ProjectMars.Pages;
+
 namespace ProjectMars.Tests
 {
     [TestFixture]
